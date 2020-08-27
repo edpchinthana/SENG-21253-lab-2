@@ -1,3 +1,8 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
 nav ul{
     display: flex;
     flex-direction: row;
