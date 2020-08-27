@@ -20,3 +20,12 @@ nav img{
     height: 50px;
     width: auto;
 }
+
+nav ul li div{
+    padding: 5px;
+    transition: all 0.3s ease;
+}
+
+nav ul li div:hover{
+    border-bottom: 2px solid grey;
+}
