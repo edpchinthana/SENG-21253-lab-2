@@ -29,3 +29,27 @@ nav ul li div{
 nav ul li div:hover{
     border-bottom: 2px solid grey;
 }
+
+/* unvisited link */
+nav ul li div a:link {
+    color: darkolivegreen;
+    text-decoration: none;
+}
+  
+  /* visited link */
+nav ul li div a:visited {
+    color: darkolivegreen;
+    text-decoration: none;
+}
+  
+  /* mouse over link */
+nav ul li div a:hover {
+    color: darkolivegreen;
+    text-decoration: none;
+}
+  
+/* selected link */
+nav ul li div a:active {
+    color: darkolivegreen;
+    text-decoration: none;
+}
