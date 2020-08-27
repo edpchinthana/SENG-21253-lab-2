@@ -1,0 +1,16 @@
+.gallery{
+    padding: 40px;
+}
+
+.gallery img{
+    width: 5vw;
+    height: auto;
+}
+
+.gallery ul{
+    padding: 0;
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
