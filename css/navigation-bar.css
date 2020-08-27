@@ -1,0 +1,17 @@
+nav ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-evenly;
+    line-height: 40px;
+    color: darkolivegreen;
+}
+
+nav ul li:last-child{
+    margin-left:50%;
+}
+
+nav img{
+    height: 50px;
+    width: auto;
+}
