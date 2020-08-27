@@ -1,4 +1,4 @@
-footer{
+.footer-a{
     background-color: black;
     color: white;
     display: flex;
@@ -6,16 +6,16 @@ footer{
     justify-content: space-evenly;
 }
 
-footer div{
+.footer-a div{
     width: 250px;
     padding: 20px;
 }
 
-footer div img{
+.footer-a div img{
     height: 60px;
 }
 
-.footer-gallery{
+.footer-a .footer-gallery{
     display: flex;
     flex-direction: row;
     list-style: none;
@@ -23,8 +23,14 @@ footer div img{
     justify-content: flex-start;
 }
 
-.footer-gallery img{
+.footer-a .footer-gallery img{
     width: 30px;
     height: 30px;
     margin-right: 10px;
+}
+
+.footer-b {
+    background-color: grey;
+    padding: 10px;
+    font-size: 14px;
 }
