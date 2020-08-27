@@ -1,0 +1,35 @@
+.banner{
+    width: 100%;
+    height: 500px;
+    background-image: url("/res/banner-img.png");
+    background-size:100% auto;
+}
+
+.contact-form{
+    float: right;
+    margin: 20px;
+    padding: 20px;
+    width: 250px;
+    background-color: white;
+}
+
+.contact-form h1{
+    font-size: 30px;
+}
+
+.contact-form form label{
+    font-weight: bold;
+}
+
+.contact-form form input{
+    width: 220px;
+    padding: 12px;
+    border: none;
+    background-color: rgb(228, 227, 227);
+}
+.contact-form form input:last-child{
+    width: 244px;
+    background-color: rgb(43, 175, 43);
+    color: white;
+}
+
