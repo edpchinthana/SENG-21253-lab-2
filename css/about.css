@@ -25,3 +25,19 @@
     font-size: 18px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
+.gallery{
+    padding: 40px 5vw 40px 5vw;
+}
+
+.gallery img{
+    width: 20vw;
+    height: auto;
+}
+
+.gallery ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
