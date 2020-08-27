@@ -27,7 +27,7 @@
 }
 
 .gallery{
-    padding: 40px 5vw 40px 5vw;
+    padding: 40px;
 }
 
 .gallery img{
@@ -36,8 +36,16 @@
 }
 
 .gallery ul{
+    padding: 0;
     list-style: none;
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
+}
+
+.gallery p {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
