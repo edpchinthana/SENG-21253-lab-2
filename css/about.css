@@ -1,0 +1,27 @@
+.about{
+    float: left;
+    width: 100%;
+}
+
+.about img{
+    float: left;
+    width: 40vw;
+    padding: 20px;
+}
+
+.about div{
+    float: left;
+    width: 50vw;
+    padding: 20px;
+}
+
+.about h1{
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    letter-spacing: 2px;
+}
+
+.about p{
+    font-size: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

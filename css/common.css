@@ -1,20 +1,30 @@
-.heading{
+.dark-background{
     background-color: black;
-    widows: 100px;
     color: white;
+}
+
+.light-background{
+    color: black;
+}
+
+.heading{
     padding: 20px 20px 20px 2% ;
 }
 
+.heading h1{
+    font-size: 25px;
+}
+
 .heading2{
-    width: 100%;
     text-align: center;
     font-size: 25px;
     font-weight: bold;
-    padding: 20px;
+    padding: 20px 20px 0px 20px;
 }
 
 .sub-heading1{
     text-align: center;
     color: grey;
     font-size: 18px;
+    padding: 20px;
 }
